@@ -103,6 +103,6 @@ Note
 
 The original CFPB dataset is not uploaded here because it is very large. The notebook contains the analysis and preprocessing steps used for the project.
 
-Author
+## Connect with Me
 
-Mahitha Kalinathabotla
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mahitha-kalinathabotla/)
