@@ -98,11 +98,9 @@ I also found differences between financial product categories. The interaction a
 - Interaction Analysis
 - Regression Modeling
 - Working with Large Datasets
-
-Note
-
-The original CFPB dataset is not uploaded here because it is very large. The notebook contains the analysis and preprocessing steps used for the project.
-
+  
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mahitha-kalinathabotla/)
+
+*The original CFPB dataset is not uploaded here because it is very large. The notebook contains the analysis and preprocessing steps used for the project.*
